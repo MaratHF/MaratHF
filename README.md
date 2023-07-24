@@ -7,8 +7,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :man_technologist: Обо мне :
+Я iOS разработчик. Начал свой путь с самостоятельного обучения, но решил ускорить процесс и пройти курс от SwiftBook. Закончил обучение в 2022 и активно искал стажировки. В начале 2023 года увидел, что компания ЦФТ проводит набор на курс ШИФТ, выполнил тестовое задание и прошел отбор. Летом успешно закончил обучение и сейчас нахожусь в активном поиске работы.
 - :telescope: Я в начале своего пути iOS разработчика
 - :seedling: Окончил Санкт-Петербургский Горный Университет
 - :zap: Прошел курс от Swiftbook, а также курс ШИФТ от компании ЦФТ.
