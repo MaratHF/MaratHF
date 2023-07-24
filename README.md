@@ -12,6 +12,7 @@
   <a href="https://vk.com/id67592488">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=MaratHF&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=MaratHF&style=flat-square&color=blue" alt=""/>
+
