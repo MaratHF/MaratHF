@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="250"/>
 </div>
 
 ### :man_technologist: Обо мне :
