@@ -14,18 +14,6 @@
 - 📧 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Marat_iOS) [![Вконтакте Badge](https://img.shields.io/badge/-Вконтакте-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/id67592488) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
 <div id="badges" align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/Marat_iOS">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://vk.com/id67592488">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-</div>
-
-<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=MaratHF&style=flat-square&color=blue" alt=""/>
 </div>
 
