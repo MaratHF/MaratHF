@@ -11,7 +11,7 @@
 - 👨‍🎓 Окончил Санкт-Петербургский Горный Университет
 - ⚡ Прошел курс от Swiftbook, а также успешно окончил курс ШИФТ от компании ЦФТ по iOS разработке.
 - 💻 Занимаюсь независимой разработкой, планирую выпустить свое приложение в appstore.
-- 📧 Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📧 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Marat_iOS) [![Вконтакте Badge](https://img.shields.io/badge/-Вконтакте-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/id67592488) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
 <div id="badges" align="center">
   <a href="">
