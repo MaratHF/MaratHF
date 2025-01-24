@@ -9,9 +9,8 @@
 
 ### :man_technologist: Обо мне :
 - 👨‍🎓 Окончил Санкт-Петербургский Горный Университет
-- 💻 Занимаюсь независимой разработкой, планирую выпустить свое приложение в appstore.
-- ⚡ Прошел курс от Swiftbook, а также успешно окончил курс ШИФТ от компании ЦФТ по iOS разработке.
-- 📱 Активно ищу работу в сфере iOS разработки.
+- 📱 Занимался iOS разработкой.
+- 💻 В данный момент осваиваю java разработку, занимаюсь самообучением.
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Marat_iOS) [![Вконтакте Badge](https://img.shields.io/badge/-Вконтакте-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/id67592488) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/marat-khairullin-97a44b246)
 
 <div id="badges" align="center">
